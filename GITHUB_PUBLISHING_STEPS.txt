@@ -1,0 +1,11 @@
+HOW TO PUBLISH YOUR ASSIGNMENT TO GITHUB
+
+1. Sign in to GitHub (create an account if needed).
+2. Create a repository named: jala-software-testing-assignment
+3. Choose Public only if your assignment rules allow it.
+4. Do NOT upload passwords or credentials.
+5. Upload JALA_Testing_Assignment.xlsx, selenium_starter.py and README.md.
+6. Click Commit changes.
+7. Copy the address of your repository page. That is your real GitHub link to share with JALA.
+
+Before submission, execute tests, fill actual results/statuses, verify defects and update Selenium selectors. Do not claim unexecuted tests are complete.
